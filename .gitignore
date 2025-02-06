@@ -1,0 +1,21 @@
+# Large data files
+FY2025_All_Contracts_Full_20250107_1.csv
+contracts.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo 

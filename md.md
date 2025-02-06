@@ -1,0 +1,1 @@
+how can i use this data to make a streamlit app that visualizes the data more easily? so that the user can filter by contract end date with a date picker, by award name with search, by contracting entity name with search. using sqllite 
