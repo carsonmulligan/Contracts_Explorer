@@ -2,6 +2,21 @@
 FY2025_All_Contracts_Full_20250107_1.csv
 contracts.db
 
+# All FY CSV directories
+FY20*_All_Contracts_Full_*/
+FY*_All_Contracts_Full_*.csv
+
+# Additional data files
+*_All_Contracts_Full_*.csv
+*_All_Contracts_*.csv
+*.db
+*.sqlite
+*.sqlite3
+
+# Keep the sample files
+!contracts_sample.csv
+!contracts_sample.parquet
+
 # Python
 __pycache__/
 *.py[cod]
